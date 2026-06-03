@@ -1,6 +1,63 @@
-<!doctype html><html lang="it"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Passaporto delle Luci</title><link rel="stylesheet" href="style.css"></head><body>
-<header class="hero"><div class="top"><div class="rbr">RBR<span>LIGHT</span></div><div class="ed">Salerno Luci d’Artista<br>XXI Edizione 2026/2027</div></div><h1>Passaporto<br>delle Luci</h1><p class="claim">Salerno si accende. Tu vivila tutta.</p><p class="intro">Esplora le installazioni, colleziona i timbri digitali e completa il tuo percorso tra arte, luce e magia.</p><a href="#mappa" class="btn gold">Inizia il viaggio</a></header>
-<main><section><h2>Come funziona</h2><div class="steps"><div>1. Esplora la mappa</div><div>2. Raggiungi la tappa</div><div>3. Inquadra il QR</div><div>4. Colleziona il timbro</div><div>5. Scarica l’attestato</div></div></section>
-<section id="mappa"><h2>Mappa delle tappe</h2><div id="cards" class="grid"></div></section>
-<section id="passaporto"><h2>Il tuo passaporto</h2><p>I progressi sono salvati sul dispositivo, senza registrazione.</p><div id="stamps" class="passport"></div><p id="progress"></p><input id="visitorName" placeholder="Nome e cognome per l’attestato"><br><br><button id="downloadCertificate" class="gold" disabled>Scarica attestato immagine</button> <button id="reset">Reset demo</button></section>
-<section><h2>Scheda opera</h2><div id="detail">Seleziona una tappa dalla mappa.</div></section></main><footer>RBR LIGHT · Light Up Your Emotions</footer><script src="app.js"></script></body></html>
+<!doctype html>
+<html lang="it">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Passaporto delle Luci | Demo Google Maps</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="hero">
+  <div class="top">
+    <div class="rbr">RBR<span>LIGHT</span></div>
+    <div class="ed">Salerno Luci d’Artista<br>XXI Edizione 2026/2027</div>
+  </div>
+  <h1>Passaporto<br>delle Luci</h1>
+  <p class="claim">Salerno si accende. Tu vivila tutta.</p>
+  <p class="intro">Demo interattiva con mappa, tappe geolocalizzate, link Google Maps, timbri digitali e attestato PNG finale.</p>
+  <div class="actions"><a href="#mappa" class="btn gold">Apri la mappa</a><a href="#passaporto" class="btn">Il mio passaporto</a></div>
+</header>
+
+<main>
+<section class="panel">
+<h2>Come funziona</h2>
+<div class="steps">
+  <div><b>1</b><span>Esplora la mappa</span></div>
+  <div><b>2</b><span>Apri la tappa</span></div>
+  <div><b>3</b><span>Vai con Google Maps</span></div>
+  <div><b>4</b><span>Colleziona il timbro</span></div>
+  <div><b>5</b><span>Scarica l’attestato</span></div>
+</div>
+</section>
+
+<section class="panel" id="mappa">
+<h2>Mappa Google delle Luci</h2>
+<p class="muted">La demo utilizza una mappa incorporata Google Maps e schede tappa geolocalizzate con link di navigazione.</p>
+<div class="mapWrap">
+<iframe id="googleMap" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade"
+src="https://maps.google.com/maps?q=Salerno%20Luci%20d%27Artista&t=&z=14&ie=UTF8&iwloc=&output=embed"></iframe>
+</div>
+<div id="cards" class="grid"></div>
+</section>
+
+<section class="panel" id="passaporto">
+<h2>Il tuo passaporto</h2>
+<p class="muted">I progressi sono salvati sul dispositivo, senza registrazione e senza app da scaricare.</p>
+<div id="stamps" class="passport"></div>
+<p id="progress"></p>
+<input id="visitorName" placeholder="Nome e cognome per l’attestato">
+<div class="actions small">
+<button id="downloadCertificate" class="gold" disabled>Scarica attestato immagine</button>
+<button id="reset">Reset demo</button>
+</div>
+</section>
+
+<section class="panel">
+<h2>Scheda opera</h2>
+<div id="detail" class="detail">Seleziona una tappa dalla mappa.</div>
+</section>
+</main>
+<footer>RBR LIGHT · Light Up Your Emotions</footer>
+<script src="app.js"></script>
+</body>
+</html>
