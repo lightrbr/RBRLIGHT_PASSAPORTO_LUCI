@@ -4,79 +4,79 @@
     "name": "Albero di Natale",
     "place": "Piazza Portanova",
     "short": "Il grande simbolo luminoso del Natale cittadino.",
-    "description": "Tappa iconica del percorso Luci d’Artista: un albero monumentale che diventa punto di incontro, fotografia e partenza ideale del viaggio luminoso nel centro di Salerno.",
-    "icon": "🎄"
+    "icon": "🎄",
+    "description": "Il grande simbolo luminoso del Natale cittadino. Tappa del Passaporto delle Luci pensata per guidare cittadini e turisti alla scoperta delle installazioni di Salerno Luci d’Artista."
   },
   {
     "id": "02",
     "name": "Fiabe",
     "place": "Villa Comunale",
     "short": "Un percorso immersivo dedicato alla fantasia.",
-    "description": "La Villa Comunale si trasforma in un giardino narrativo di luci, personaggi e scenografie pensate per famiglie, bambini e visitatori alla ricerca di un’esperienza emozionale.",
-    "icon": "📖"
+    "icon": "📖",
+    "description": "Un percorso immersivo dedicato alla fantasia. Tappa del Passaporto delle Luci pensata per guidare cittadini e turisti alla scoperta delle installazioni di Salerno Luci d’Artista."
   },
   {
     "id": "03",
     "name": "Moonlight",
     "place": "Piazza della Libertà",
     "short": "Un’opera scenografica tra luce, mare e architettura.",
-    "description": "Una tappa di grande impatto visivo, pensata per valorizzare uno degli spazi urbani più rappresentativi della città con giochi luminosi e atmosfere notturne.",
-    "icon": "🌙"
+    "icon": "🌙",
+    "description": "Un’opera scenografica tra luce, mare e architettura. Tappa del Passaporto delle Luci pensata per guidare cittadini e turisti alla scoperta delle installazioni di Salerno Luci d’Artista."
   },
   {
     "id": "04",
     "name": "Cristalli",
     "place": "Corso Vittorio Emanuele",
     "short": "Una promenade luminosa elegante e fotografabile.",
-    "description": "Un asse urbano trasformato in un percorso scintillante con elementi sospesi, riflessi e punti luce capaci di accompagnare il pubblico lungo la passeggiata commerciale.",
-    "icon": "💎"
+    "icon": "💎",
+    "description": "Una promenade luminosa elegante e fotografabile. Tappa del Passaporto delle Luci pensata per guidare cittadini e turisti alla scoperta delle installazioni di Salerno Luci d’Artista."
   },
   {
     "id": "05",
     "name": "Sistema Solare",
     "place": "Piazza Flavio Gioia",
     "short": "Un viaggio tra pianeti, stelle e luce.",
-    "description": "Una scenografia celeste immersiva che unisce meraviglia, divulgazione e spettacolo, trasformando la piazza in un piccolo universo luminoso.",
-    "icon": "🪐"
+    "icon": "🪐",
+    "description": "Un viaggio tra pianeti, stelle e luce. Tappa del Passaporto delle Luci pensata per guidare cittadini e turisti alla scoperta delle installazioni di Salerno Luci d’Artista."
   },
   {
     "id": "06",
     "name": "Angeli",
     "place": "Area Duomo",
     "short": "Una tappa suggestiva nel cuore storico della città.",
-    "description": "Installazioni luminose dal carattere poetico e spirituale, progettate per dialogare con il contesto architettonico e valorizzare il percorso verso il Duomo.",
-    "icon": "✨"
+    "icon": "✨",
+    "description": "Una tappa suggestiva nel cuore storico della città. Tappa del Passaporto delle Luci pensata per guidare cittadini e turisti alla scoperta delle installazioni di Salerno Luci d’Artista."
   },
   {
     "id": "07",
     "name": "Rami Floreali",
     "place": "Via Mercanti",
     "short": "La natura luminosa attraversa il centro storico.",
-    "description": "Una sequenza decorativa ispirata al mondo vegetale, capace di accompagnare il pubblico tra vicoli, botteghe e scorci storici con un linguaggio delicato e riconoscibile.",
-    "icon": "🌸"
+    "icon": "🌸",
+    "description": "La natura luminosa attraversa il centro storico. Tappa del Passaporto delle Luci pensata per guidare cittadini e turisti alla scoperta delle installazioni di Salerno Luci d’Artista."
   },
   {
     "id": "08",
     "name": "Palme Dorate",
     "place": "Arenile Santa Teresa",
     "short": "Luce calda sul fronte mare.",
-    "description": "Una tappa scenografica che valorizza il lungomare e il paesaggio costiero con illuminazioni eleganti, ideali per fotografie serali e passeggiate panoramiche.",
-    "icon": "🌴"
+    "icon": "🌴",
+    "description": "Luce calda sul fronte mare. Tappa del Passaporto delle Luci pensata per guidare cittadini e turisti alla scoperta delle installazioni di Salerno Luci d’Artista."
   },
   {
     "id": "09",
     "name": "Renna Monumentale",
     "place": "Piazza Caduti di Brescia",
     "short": "Un soggetto natalizio riconoscibile e di forte richiamo.",
-    "description": "Una grande figura luminosa tridimensionale pensata come landmark di quartiere, punto selfie e attrazione per famiglie e visitatori.",
-    "icon": "🦌"
+    "icon": "🦌",
+    "description": "Un soggetto natalizio riconoscibile e di forte richiamo. Tappa del Passaporto delle Luci pensata per guidare cittadini e turisti alla scoperta delle installazioni di Salerno Luci d’Artista."
   },
   {
     "id": "10",
     "name": "Tenda di Luce",
     "place": "Sottopiazza Libertà",
     "short": "Un ambiente luminoso da attraversare.",
-    "description": "Una tappa immersiva e attraversabile, dove il pubblico entra fisicamente nella luce e completa il proprio percorso esperienziale.",
-    "icon": "🌌"
+    "icon": "🌌",
+    "description": "Un ambiente luminoso da attraversare. Tappa del Passaporto delle Luci pensata per guidare cittadini e turisti alla scoperta delle installazioni di Salerno Luci d’Artista."
   }
 ]
