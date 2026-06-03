@@ -1,50 +1,50 @@
 QR-01 | Albero di Natale | Piazza Portanova
 Inquadra il QR e colleziona il tuo timbro digitale.
-Link demo: ./index.html#tappa-01
+Link demo: https://lightrbr.github.io/RBRLIGHT_PASSAPORTO_LUCI/#tappa-01
 Google Maps: https://www.google.com/maps/search/?api=1&query=40.67772,14.75914
 
 QR-02 | Fiabe | Villa Comunale
 Inquadra il QR e colleziona il tuo timbro digitale.
-Link demo: ./index.html#tappa-02
+Link demo: https://lightrbr.github.io/RBRLIGHT_PASSAPORTO_LUCI/#tappa-02
 Google Maps: https://www.google.com/maps/search/?api=1&query=40.67924,14.75165
 
-QR-03 | Moonlight | Piazza della Libertà
+QR-03 | Angeli | Area Duomo
 Inquadra il QR e colleziona il tuo timbro digitale.
-Link demo: ./index.html#tappa-03
-Google Maps: https://www.google.com/maps/search/?api=1&query=40.67484,14.75042
+Link demo: https://lightrbr.github.io/RBRLIGHT_PASSAPORTO_LUCI/#tappa-03
+Google Maps: https://www.google.com/maps/search/?api=1&query=40.68095,14.75639
 
 QR-04 | Cristalli | Corso Vittorio Emanuele
 Inquadra il QR e colleziona il tuo timbro digitale.
-Link demo: ./index.html#tappa-04
+Link demo: https://lightrbr.github.io/RBRLIGHT_PASSAPORTO_LUCI/#tappa-04
 Google Maps: https://www.google.com/maps/search/?api=1&query=40.67846,14.76356
 
 QR-05 | Sistema Solare | Piazza Flavio Gioia
 Inquadra il QR e colleziona il tuo timbro digitale.
-Link demo: ./index.html#tappa-05
+Link demo: https://lightrbr.github.io/RBRLIGHT_PASSAPORTO_LUCI/#tappa-05
 Google Maps: https://www.google.com/maps/search/?api=1&query=40.67685,14.7581
 
-QR-06 | Angeli | Area Duomo
+QR-06 | Moonlight | Piazza della Libertà
 Inquadra il QR e colleziona il tuo timbro digitale.
-Link demo: ./index.html#tappa-06
-Google Maps: https://www.google.com/maps/search/?api=1&query=40.68095,14.75639
+Link demo: https://lightrbr.github.io/RBRLIGHT_PASSAPORTO_LUCI/#tappa-06
+Google Maps: https://www.google.com/maps/search/?api=1&query=40.67484,14.75042
 
 QR-07 | Rami Floreali | Via Mercanti
 Inquadra il QR e colleziona il tuo timbro digitale.
-Link demo: ./index.html#tappa-07
+Link demo: https://lightrbr.github.io/RBRLIGHT_PASSAPORTO_LUCI/#tappa-07
 Google Maps: https://www.google.com/maps/search/?api=1&query=40.67996,14.75505
 
 QR-08 | Palme Dorate | Arenile Santa Teresa
 Inquadra il QR e colleziona il tuo timbro digitale.
-Link demo: ./index.html#tappa-08
+Link demo: https://lightrbr.github.io/RBRLIGHT_PASSAPORTO_LUCI/#tappa-08
 Google Maps: https://www.google.com/maps/search/?api=1&query=40.67562,14.74951
 
 QR-09 | Renna Monumentale | Piazza Caduti di Brescia
 Inquadra il QR e colleziona il tuo timbro digitale.
-Link demo: ./index.html#tappa-09
+Link demo: https://lightrbr.github.io/RBRLIGHT_PASSAPORTO_LUCI/#tappa-09
 Google Maps: https://www.google.com/maps/search/?api=1&query=40.64995,14.8173
 
 QR-10 | Tenda di Luce | Sottopiazza Libertà
 Inquadra il QR e colleziona il tuo timbro digitale.
-Link demo: ./index.html#tappa-10
+Link demo: https://lightrbr.github.io/RBRLIGHT_PASSAPORTO_LUCI/#tappa-10
 Google Maps: https://www.google.com/maps/search/?api=1&query=40.67472,14.75019
 

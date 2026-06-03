@@ -7,6 +7,7 @@
     "lng": 14.75914,
     "short": "Il grande simbolo luminoso del Natale cittadino.",
     "icon": "🎄",
+    "image": "assets/installazioni/01_albero_natale.png",
     "description": "Albero di Natale presso Piazza Portanova. Il grande simbolo luminoso del Natale cittadino. Una tappa del Passaporto delle Luci pensata per guidare cittadini e turisti alla scoperta delle installazioni di Salerno Luci d’Artista.",
     "mapsUrl": "https://www.google.com/maps/search/?api=1&query=40.67772,14.75914"
   },
@@ -18,19 +19,21 @@
     "lng": 14.75165,
     "short": "Un percorso immersivo dedicato alla fantasia.",
     "icon": "📖",
+    "image": "assets/installazioni/02_fiabe.png",
     "description": "Fiabe presso Villa Comunale. Un percorso immersivo dedicato alla fantasia. Una tappa del Passaporto delle Luci pensata per guidare cittadini e turisti alla scoperta delle installazioni di Salerno Luci d’Artista.",
     "mapsUrl": "https://www.google.com/maps/search/?api=1&query=40.67924,14.75165"
   },
   {
     "id": "03",
-    "name": "Moonlight",
-    "place": "Piazza della Libertà",
-    "lat": 40.67484,
-    "lng": 14.75042,
-    "short": "Un’opera scenografica tra luce, mare e architettura.",
-    "icon": "🌙",
-    "description": "Moonlight presso Piazza della Libertà. Un’opera scenografica tra luce, mare e architettura. Una tappa del Passaporto delle Luci pensata per guidare cittadini e turisti alla scoperta delle installazioni di Salerno Luci d’Artista.",
-    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=40.67484,14.75042"
+    "name": "Angeli",
+    "place": "Area Duomo",
+    "lat": 40.68095,
+    "lng": 14.75639,
+    "short": "Una tappa suggestiva nel cuore storico della città.",
+    "icon": "✨",
+    "image": "assets/installazioni/03_angeli.png",
+    "description": "Angeli presso Area Duomo. Una tappa suggestiva nel cuore storico della città. Una tappa del Passaporto delle Luci pensata per guidare cittadini e turisti alla scoperta delle installazioni di Salerno Luci d’Artista.",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=40.68095,14.75639"
   },
   {
     "id": "04",
@@ -40,6 +43,7 @@
     "lng": 14.76356,
     "short": "Una promenade luminosa elegante e fotografabile.",
     "icon": "💎",
+    "image": "assets/installazioni/04_cristalli.png",
     "description": "Cristalli presso Corso Vittorio Emanuele. Una promenade luminosa elegante e fotografabile. Una tappa del Passaporto delle Luci pensata per guidare cittadini e turisti alla scoperta delle installazioni di Salerno Luci d’Artista.",
     "mapsUrl": "https://www.google.com/maps/search/?api=1&query=40.67846,14.76356"
   },
@@ -51,19 +55,21 @@
     "lng": 14.7581,
     "short": "Un viaggio tra pianeti, stelle e luce.",
     "icon": "🪐",
+    "image": "assets/installazioni/05_sistema_solare.png",
     "description": "Sistema Solare presso Piazza Flavio Gioia. Un viaggio tra pianeti, stelle e luce. Una tappa del Passaporto delle Luci pensata per guidare cittadini e turisti alla scoperta delle installazioni di Salerno Luci d’Artista.",
     "mapsUrl": "https://www.google.com/maps/search/?api=1&query=40.67685,14.7581"
   },
   {
     "id": "06",
-    "name": "Angeli",
-    "place": "Area Duomo",
-    "lat": 40.68095,
-    "lng": 14.75639,
-    "short": "Una tappa suggestiva nel cuore storico della città.",
-    "icon": "✨",
-    "description": "Angeli presso Area Duomo. Una tappa suggestiva nel cuore storico della città. Una tappa del Passaporto delle Luci pensata per guidare cittadini e turisti alla scoperta delle installazioni di Salerno Luci d’Artista.",
-    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=40.68095,14.75639"
+    "name": "Moonlight",
+    "place": "Piazza della Libertà",
+    "lat": 40.67484,
+    "lng": 14.75042,
+    "short": "Un’opera scenografica tra luce, mare e architettura.",
+    "icon": "🌙",
+    "image": "assets/installazioni/06_moonlight.png",
+    "description": "Moonlight presso Piazza della Libertà. Un’opera scenografica tra luce, mare e architettura. Una tappa del Passaporto delle Luci pensata per guidare cittadini e turisti alla scoperta delle installazioni di Salerno Luci d’Artista.",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=40.67484,14.75042"
   },
   {
     "id": "07",
@@ -73,6 +79,7 @@
     "lng": 14.75505,
     "short": "La natura luminosa attraversa il centro storico.",
     "icon": "🌸",
+    "image": "assets/installazioni/07_rami_floreali.png",
     "description": "Rami Floreali presso Via Mercanti. La natura luminosa attraversa il centro storico. Una tappa del Passaporto delle Luci pensata per guidare cittadini e turisti alla scoperta delle installazioni di Salerno Luci d’Artista.",
     "mapsUrl": "https://www.google.com/maps/search/?api=1&query=40.67996,14.75505"
   },
@@ -84,6 +91,7 @@
     "lng": 14.74951,
     "short": "Luce calda sul fronte mare.",
     "icon": "🌴",
+    "image": "assets/installazioni/08_palme_dorate.png",
     "description": "Palme Dorate presso Arenile Santa Teresa. Luce calda sul fronte mare. Una tappa del Passaporto delle Luci pensata per guidare cittadini e turisti alla scoperta delle installazioni di Salerno Luci d’Artista.",
     "mapsUrl": "https://www.google.com/maps/search/?api=1&query=40.67562,14.74951"
   },
@@ -95,6 +103,7 @@
     "lng": 14.8173,
     "short": "Un soggetto natalizio riconoscibile e di forte richiamo.",
     "icon": "🦌",
+    "image": "assets/installazioni/09_renna_monumentale.png",
     "description": "Renna Monumentale presso Piazza Caduti di Brescia. Un soggetto natalizio riconoscibile e di forte richiamo. Una tappa del Passaporto delle Luci pensata per guidare cittadini e turisti alla scoperta delle installazioni di Salerno Luci d’Artista.",
     "mapsUrl": "https://www.google.com/maps/search/?api=1&query=40.64995,14.8173"
   },
@@ -106,6 +115,7 @@
     "lng": 14.75019,
     "short": "Un ambiente luminoso da attraversare.",
     "icon": "🌌",
+    "image": "assets/installazioni/10_tenda_di_luce.png",
     "description": "Tenda di Luce presso Sottopiazza Libertà. Un ambiente luminoso da attraversare. Una tappa del Passaporto delle Luci pensata per guidare cittadini e turisti alla scoperta delle installazioni di Salerno Luci d’Artista.",
     "mapsUrl": "https://www.google.com/maps/search/?api=1&query=40.67472,14.75019"
   }

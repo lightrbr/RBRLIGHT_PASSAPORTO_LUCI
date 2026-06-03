@@ -3,19 +3,31 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
-<title>Passaporto delle Luci | Demo Google Maps</title>
+<title>Passaporto delle Luci | RBR LIGHT</title>
 <link rel="stylesheet" href="style.css">
 </head>
 <body>
 <header class="hero">
   <div class="top">
-    <div class="rbr">RBR<span>LIGHT</span></div>
+    <img src="assets/logo/logo-rbr-light.JPG" alt="RBR Light" class="logo">
     <div class="ed">Salerno Luci d’Artista<br>XXI Edizione 2026/2027</div>
   </div>
-  <h1>Passaporto<br>delle Luci</h1>
-  <p class="claim">Salerno si accende. Tu vivila tutta.</p>
-  <p class="intro">Demo interattiva con mappa, tappe geolocalizzate, link Google Maps, timbri digitali e attestato PNG finale.</p>
-  <div class="actions"><a href="#mappa" class="btn gold">Apri la mappa</a><a href="#passaporto" class="btn">Il mio passaporto</a></div>
+  <div class="heroGrid">
+    <div>
+      <h1>Passaporto<br>delle Luci</h1>
+      <p class="claim">Salerno si accende. Tu vivila tutta.</p>
+      <p class="intro">Esplora le installazioni reali del percorso, apri la mappa Google, colleziona i timbri digitali e scarica il tuo attestato finale.</p>
+      <div class="actions">
+        <a href="#mappa" class="btn gold">Apri la mappa</a>
+        <a href="#passaporto" class="btn">Il mio passaporto</a>
+      </div>
+      <div class="demoBox">
+        <img src="assets/qr/qr_demo_passaporto.png" alt="QR Demo" onerror="this.style.display='none'">
+        <div><b>Demo online</b><br><span>Versione dimostrativa personalizzabile secondo le esigenze della Stazione Appaltante.</span></div>
+      </div>
+    </div>
+    <div class="heroPhoto"><img src="assets/installazioni/01_albero_natale.png" alt="Albero di Natale"></div>
+  </div>
 </header>
 
 <main>
@@ -23,8 +35,8 @@
 <h2>Come funziona</h2>
 <div class="steps">
   <div><b>1</b><span>Esplora la mappa</span></div>
-  <div><b>2</b><span>Apri la tappa</span></div>
-  <div><b>3</b><span>Vai con Google Maps</span></div>
+  <div><b>2</b><span>Raggiungi la tappa</span></div>
+  <div><b>3</b><span>Inquadra il QR</span></div>
   <div><b>4</b><span>Colleziona il timbro</span></div>
   <div><b>5</b><span>Scarica l’attestato</span></div>
 </div>
@@ -32,7 +44,7 @@
 
 <section class="panel" id="mappa">
 <h2>Mappa Google delle Luci</h2>
-<p class="muted">La demo utilizza una mappa incorporata Google Maps e schede tappa geolocalizzate con link di navigazione.</p>
+<p class="muted">La demo utilizza Google Maps incorporata e schede tappa con immagini reali, geolocalizzazione e link di navigazione.</p>
 <div class="mapWrap">
 <iframe id="googleMap" loading="lazy" allowfullscreen referrerpolicy="no-referrer-when-downgrade"
 src="https://maps.google.com/maps?q=Salerno%20Luci%20d%27Artista&t=&z=14&ie=UTF8&iwloc=&output=embed"></iframe>
@@ -55,6 +67,12 @@ src="https://maps.google.com/maps?q=Salerno%20Luci%20d%27Artista&t=&z=14&ie=UTF8
 <section class="panel">
 <h2>Scheda opera</h2>
 <div id="detail" class="detail">Seleziona una tappa dalla mappa.</div>
+</section>
+
+<section class="panel posterPanel">
+<h2>Locandina dimostrativa</h2>
+<p class="muted">Tavola illustrativa del concept, personalizzabile con grafica ufficiale della manifestazione.</p>
+<img src="assets/locandina/locandina_passaporto_luci.png" alt="Locandina Passaporto delle Luci">
 </section>
 </main>
 <footer>RBR LIGHT · Light Up Your Emotions</footer>
